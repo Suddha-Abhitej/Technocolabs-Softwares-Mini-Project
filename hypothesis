@@ -1,0 +1,31 @@
+## Problem statement :
+
+**“The data scientists at Big Mart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim of this data science project is to build a predictive model and find out the sales of each product at a particular store.”**
+
+  Hypothesis
+  
+1.  product  price
+2. Product demand
+3. Product supply
+4.  product  brand
+5. The sales of a product are related to the type of store it is being sold in
+6. The sales of a product are related to the location of the store
+7. seasonal products
+8. The sales of a product are related to the promotion and marketing efforts for the product.
+9. Product availability
+10. Competition
+11. Product versatility and range of customers
+12. Product quality
+
+# Hypothesis Testing
+
+1. **Product Price** : lower prices will have higher sales compared to products with higher prices statistical techniques can be applied on sales between products with price difference
+2. **Product demand** : product with more demand in the market have high sales. The testing can done using previous data upon identifying level of demand with sales of a product
+3. **Product supply:** the right amount of supply and efficient storage methods increase sales. Collecting data of supply and sales of a selection of products and analyzing for trends or patterns in the data that may suggest a relationship between supply and sales.
+4. **product  brand :** popular and trustworthy brands products tend to have more sales than normal products this can tested by analyzing sales between similar product of different brands
+5. **Type of Store & location**: the sales are directly related to the type of store like online or offline store, Big supermarkets or small grocery store, location of the store. The testing can be done by analyzing sales of a product in each type of store at same period
+6. **Seasonal Products :** few products have high demand in a particular season of a year this may be due to availability or requirement, thus increases sales of a product for a time period. This can tested by analyzing trends of a product sales against time.
+7. **Marketing** : this plays a huge role on a product ,major reason of product sales would depend on marketing and promotions. This can be tested by analyzing data on sales of a product before marketing and promotions and after 
+8. **Competition**: sales of a product can be influenced by other competitors. This can be tested by comparing sales of product among different companies  
+9. **Product versatility and range of customers**: A hypothesis could be formed that products that can be used in a variety of different settings or for multiple purposes will sell better compared to products with a more limited use and products which are used by a wide range customers have stable sales.
+10. **Product quality:** A hypothesis could be formed that higher quality products will have better sales compared to lower quality products. To test this hypothesis, the sales data for a selection of products with different levels of quality could be collected and analyzed to determine whether there is a significant difference in sales between the different quality levels.
